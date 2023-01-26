@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KaloriHesaplamaProjesi.Core\KaloriHesaplamaProjesi.Core.csproj" />
+    <ProjectReference Include="..\KaloriHesaplamaProjesi.DAL\KaloriHesaplamaProjesi.DAL.csproj" />
+    <ProjectReference Include="..\KaloriHesaplamaProjesi.Entities\KaloriHesaplamaProjesi.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

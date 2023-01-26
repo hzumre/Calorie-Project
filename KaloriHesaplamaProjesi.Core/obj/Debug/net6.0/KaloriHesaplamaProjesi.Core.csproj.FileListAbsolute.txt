@@ -1,0 +1,12 @@
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\bin\Debug\net6.0\KaloriHesaplamaProjesi.Core.deps.json
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\bin\Debug\net6.0\KaloriHesaplamaProjesi.Core.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\bin\Debug\net6.0\KaloriHesaplamaProjesi.Core.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\KaloriHesaplamaProjesi.Core.csproj.AssemblyReference.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\KaloriHesaplamaProjesi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\KaloriHesaplamaProjesi.Core.AssemblyInfoInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\KaloriHesaplamaProjesi.Core.AssemblyInfo.cs
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\KaloriHesaplamaProjesi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\KaloriHesaplamaProjesi.Core.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\refint\KaloriHesaplamaProjesi.Core.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\KaloriHesaplamaProjesi.Core.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Core\obj\Debug\net6.0\ref\KaloriHesaplamaProjesi.Core.dll

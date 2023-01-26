@@ -1,0 +1,17 @@
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\bin\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.deps.json
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\bin\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\bin\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\bin\Debug\net6.0\KaloriHesaplamaProjesi.Core.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\bin\Debug\net6.0\KaloriHesaplamaProjesi.Entities.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\bin\Debug\net6.0\KaloriHesaplamaProjesi.Entities.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\bin\Debug\net6.0\KaloriHesaplamaProjesi.Core.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.csproj.AssemblyReference.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.AssemblyInfoInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.AssemblyInfo.cs
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.csproj.CopyComplete
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\refint\KaloriHesaplamaProjesi.Mapping.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\KaloriHesaplamaProjesi.Mapping.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\KaloriHesaplamaProjesi\KaloriHesaplamaProjesi.Mapping\obj\Debug\net6.0\ref\KaloriHesaplamaProjesi.Mapping.dll
