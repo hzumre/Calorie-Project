@@ -1,4 +1,2 @@
-# Kalori-Hesaplama-Projesi
-Kullanıcıların hesap oluşturduktan sonra her öğünde yedikleri besinleri
-ekleme, silme ve güncelleme işlemlerini yapabildikleri bir form
-uygulamasıdır.Entity Framework teknolojisinin Code First yaklaşımı ile katmanlı mimari yapısı kullanılarak hazırlanmıştır.
+# Calorie-Project
+Calorie project is a desktop project prepared by using the layered architectural structure with the Code First approach of Entity Framework technology.
